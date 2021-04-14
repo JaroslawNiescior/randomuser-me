@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+tr:hover {
+  background-color: coral;
+}
+
+.colored tbody tr:nth-child(even) {
+  background-color: #0ff;
+}
+
+.colored tbody tr:nth-child(odd) {
+  background-color: beige;
+}
