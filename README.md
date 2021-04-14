@@ -1,3 +1,19 @@
+# RandomUser.Me Aplication
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+https://randomuser.me/ API
+
+Steps:
+
+- Fetch ~100 rows
+- display it within a table (as in example)
+- add a possibility to color rows (as in example)
+- add a possibility to sort data by country (as in example)
+- add a possibility to delete a row (as in example)
+- add a possibility to restore an init state (as in example - get back all deleted rows)
+- handle possible errors
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
